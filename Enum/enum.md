@@ -1,5 +1,5 @@
 
-`Object`: `Enum` is used to:
+`Enum` is used to:
     - Create an iterable switch object.
     - Create a generator.
 

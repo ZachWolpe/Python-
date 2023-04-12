@@ -10,8 +10,6 @@ def Trigger(category: Category):
     if category == Category.category_a:
         print(Category.__name__ + ' A!')
     
-
-
 if __name__ == "__main__":
     Trigger(Category.category_a)
     Trigger(Category.category_b)
